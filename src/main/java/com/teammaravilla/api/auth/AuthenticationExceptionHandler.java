@@ -6,7 +6,10 @@ import org.springframework.http.converter.HttpMessageNotReadableException;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.*;
 
-@RestControllerAdvice(assignableTypes = LoginController.class)
+@RestControllerAdvice(assignableTypes = {
+        LoginController.class,
+        CurrentUserController.class
+})
 public class AuthenticationExceptionHandler {
 
     @ExceptionHandler(InvalidCredentialsException.class)
