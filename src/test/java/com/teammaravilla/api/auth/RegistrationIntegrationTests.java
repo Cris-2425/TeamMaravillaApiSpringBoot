@@ -27,7 +27,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @SpringBootTest
 @AutoConfigureMockMvc
 @Transactional
-class RegistrationIntegrationTests {
+class RegistrationIntegrationTests extends JwtTestSupport {
     private static final String PASSWORD = "SoloPruebas-123456";
 
     @Autowired MockMvc mvc;
