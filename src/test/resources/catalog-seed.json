@@ -1,0 +1,592 @@
+{
+  "products": [
+    {
+      "id": "aceite",
+      "name": "Aceite",
+      "category": "OTHER",
+      "imageUrl": null
+    },
+    {
+      "id": "aceitunas",
+      "name": "Aceitunas",
+      "category": "OTHER",
+      "imageUrl": null
+    },
+    {
+      "id": "agua",
+      "name": "Agua",
+      "category": "DRINKS",
+      "imageUrl": null
+    },
+    {
+      "id": "ajo",
+      "name": "Ajo",
+      "category": "VEGETABLES",
+      "imageUrl": null
+    },
+    {
+      "id": "albondigas",
+      "name": "Albóndigas",
+      "category": "MEAT",
+      "imageUrl": null
+    },
+    {
+      "id": "ambientador",
+      "name": "Ambientador",
+      "category": "CLEANING",
+      "imageUrl": null
+    },
+    {
+      "id": "aquarius",
+      "name": "Aquarius",
+      "category": "DRINKS",
+      "imageUrl": null
+    },
+    {
+      "id": "arroz",
+      "name": "Arroz",
+      "category": "RICE",
+      "imageUrl": null
+    },
+    {
+      "id": "atun",
+      "name": "Atún",
+      "category": "FISH",
+      "imageUrl": null
+    },
+    {
+      "id": "azucar",
+      "name": "Azúcar",
+      "category": "OTHER",
+      "imageUrl": null
+    },
+    {
+      "id": "bacalao",
+      "name": "Bacalao",
+      "category": "FISH",
+      "imageUrl": null
+    },
+    {
+      "id": "baguette",
+      "name": "Baguette",
+      "category": "BAKERY",
+      "imageUrl": null
+    },
+    {
+      "id": "barra",
+      "name": "Barra",
+      "category": "BAKERY",
+      "imageUrl": null
+    },
+    {
+      "id": "batido",
+      "name": "Batido",
+      "category": "DAIRY",
+      "imageUrl": null
+    },
+    {
+      "id": "bayetas",
+      "name": "Bayetas",
+      "category": "CLEANING",
+      "imageUrl": null
+    },
+    {
+      "id": "bollo",
+      "name": "Bollo",
+      "category": "BAKERY",
+      "imageUrl": null
+    },
+    {
+      "id": "bonito",
+      "name": "Bonito",
+      "category": "FISH",
+      "imageUrl": null
+    },
+    {
+      "id": "brocoli",
+      "name": "Brócoli",
+      "category": "VEGETABLES",
+      "imageUrl": null
+    },
+    {
+      "id": "cafe",
+      "name": "Café",
+      "category": "DRINKS",
+      "imageUrl": null
+    },
+    {
+      "id": "calabacin",
+      "name": "Calabacín",
+      "category": "VEGETABLES",
+      "imageUrl": null
+    },
+    {
+      "id": "calamares",
+      "name": "Calamares",
+      "category": "FISH",
+      "imageUrl": null
+    },
+    {
+      "id": "carne_picada",
+      "name": "Carne picada",
+      "category": "MEAT",
+      "imageUrl": null
+    },
+    {
+      "id": "cebolla",
+      "name": "Cebolla",
+      "category": "VEGETABLES",
+      "imageUrl": null
+    },
+    {
+      "id": "cerdo",
+      "name": "Cerdo",
+      "category": "MEAT",
+      "imageUrl": null
+    },
+    {
+      "id": "chorizo",
+      "name": "Chorizo",
+      "category": "MEAT",
+      "imageUrl": null
+    },
+    {
+      "id": "coca_cola",
+      "name": "Coca-Cola",
+      "category": "DRINKS",
+      "imageUrl": null
+    },
+    {
+      "id": "cordero",
+      "name": "Cordero",
+      "category": "MEAT",
+      "imageUrl": null
+    },
+    {
+      "id": "croissant",
+      "name": "Croissant",
+      "category": "BAKERY",
+      "imageUrl": null
+    },
+    {
+      "id": "cuajada",
+      "name": "Cuajada",
+      "category": "DAIRY",
+      "imageUrl": null
+    },
+    {
+      "id": "detergente",
+      "name": "Detergente",
+      "category": "CLEANING",
+      "imageUrl": null
+    },
+    {
+      "id": "donut",
+      "name": "Donut",
+      "category": "BAKERY",
+      "imageUrl": null
+    },
+    {
+      "id": "empanada",
+      "name": "Empanada",
+      "category": "BAKERY",
+      "imageUrl": null
+    },
+    {
+      "id": "estropajo",
+      "name": "Estropajo",
+      "category": "CLEANING",
+      "imageUrl": null
+    },
+    {
+      "id": "fresa",
+      "name": "Fresa",
+      "category": "FRUITS",
+      "imageUrl": null
+    },
+    {
+      "id": "gambas",
+      "name": "Gambas",
+      "category": "FISH",
+      "imageUrl": null
+    },
+    {
+      "id": "harina",
+      "name": "Harina",
+      "category": "OTHER",
+      "imageUrl": null
+    },
+    {
+      "id": "huevo",
+      "name": "Huevo",
+      "category": "OTHER",
+      "imageUrl": null
+    },
+    {
+      "id": "jamon",
+      "name": "Jamón",
+      "category": "MEAT",
+      "imageUrl": null
+    },
+    {
+      "id": "kefir",
+      "name": "Kéfir",
+      "category": "DAIRY",
+      "imageUrl": null
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "category": "FRUITS",
+      "imageUrl": null
+    },
+    {
+      "id": "lavavajillas",
+      "name": "Lavavajillas",
+      "category": "CLEANING",
+      "imageUrl": null
+    },
+    {
+      "id": "leche",
+      "name": "Leche",
+      "category": "DAIRY",
+      "imageUrl": null
+    },
+    {
+      "id": "lechuga",
+      "name": "Lechuga",
+      "category": "VEGETABLES",
+      "imageUrl": null
+    },
+    {
+      "id": "lejia",
+      "name": "Lejía",
+      "category": "CLEANING",
+      "imageUrl": null
+    },
+    {
+      "id": "lubina",
+      "name": "Lubina",
+      "category": "FISH",
+      "imageUrl": null
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "category": "FRUITS",
+      "imageUrl": null
+    },
+    {
+      "id": "mantequilla",
+      "name": "Mantequilla",
+      "category": "DAIRY",
+      "imageUrl": null
+    },
+    {
+      "id": "manzana",
+      "name": "Manzana",
+      "category": "FRUITS",
+      "imageUrl": null
+    },
+    {
+      "id": "mejillon",
+      "name": "Mejillón",
+      "category": "FISH",
+      "imageUrl": null
+    },
+    {
+      "id": "melon",
+      "name": "Melón",
+      "category": "FRUITS",
+      "imageUrl": null
+    },
+    {
+      "id": "merluza",
+      "name": "Merluza",
+      "category": "FISH",
+      "imageUrl": null
+    },
+    {
+      "id": "monster",
+      "name": "Monster",
+      "category": "DRINKS",
+      "imageUrl": null
+    },
+    {
+      "id": "multiusos",
+      "name": "Multiusos",
+      "category": "CLEANING",
+      "imageUrl": null
+    },
+    {
+      "id": "napolitana",
+      "name": "Napolitana",
+      "category": "BAKERY",
+      "imageUrl": null
+    },
+    {
+      "id": "naranja",
+      "name": "Naranja",
+      "category": "FRUITS",
+      "imageUrl": null
+    },
+    {
+      "id": "nata",
+      "name": "Nata",
+      "category": "DAIRY",
+      "imageUrl": null
+    },
+    {
+      "id": "nestea",
+      "name": "Nestea",
+      "category": "DRINKS",
+      "imageUrl": null
+    },
+    {
+      "id": "pan",
+      "name": "Pan",
+      "category": "BAKERY",
+      "imageUrl": null
+    },
+    {
+      "id": "pan_de_molde",
+      "name": "Pan de molde",
+      "category": "BAKERY",
+      "imageUrl": null
+    },
+    {
+      "id": "papel_cocina",
+      "name": "Papel cocina",
+      "category": "CLEANING",
+      "imageUrl": null
+    },
+    {
+      "id": "papel_higienico",
+      "name": "Papel higiénico",
+      "category": "CLEANING",
+      "imageUrl": null
+    },
+    {
+      "id": "pasta",
+      "name": "Pasta",
+      "category": "PASTA",
+      "imageUrl": null
+    },
+    {
+      "id": "patata",
+      "name": "Patata",
+      "category": "VEGETABLES",
+      "imageUrl": null
+    },
+    {
+      "id": "pavo",
+      "name": "Pavo",
+      "category": "MEAT",
+      "imageUrl": null
+    },
+    {
+      "id": "pepino",
+      "name": "Pepino",
+      "category": "VEGETABLES",
+      "imageUrl": null
+    },
+    {
+      "id": "pera",
+      "name": "Pera",
+      "category": "FRUITS",
+      "imageUrl": null
+    },
+    {
+      "id": "pesto",
+      "name": "Pesto",
+      "category": "OTHER",
+      "imageUrl": null
+    },
+    {
+      "id": "petit",
+      "name": "Petit",
+      "category": "DAIRY",
+      "imageUrl": null
+    },
+    {
+      "id": "pimiento",
+      "name": "Pimiento",
+      "category": "VEGETABLES",
+      "imageUrl": null
+    },
+    {
+      "id": "platano",
+      "name": "Plátano",
+      "category": "FRUITS",
+      "imageUrl": null
+    },
+    {
+      "id": "pollo",
+      "name": "Pollo",
+      "category": "MEAT",
+      "imageUrl": null
+    },
+    {
+      "id": "queso",
+      "name": "Queso",
+      "category": "DAIRY",
+      "imageUrl": null
+    },
+    {
+      "id": "requeson",
+      "name": "Requesón",
+      "category": "DAIRY",
+      "imageUrl": null
+    },
+    {
+      "id": "salchicha",
+      "name": "Salchicha",
+      "category": "MEAT",
+      "imageUrl": null
+    },
+    {
+      "id": "salmon",
+      "name": "Salmón",
+      "category": "FISH",
+      "imageUrl": null
+    },
+    {
+      "id": "sandia",
+      "name": "Sandía",
+      "category": "FRUITS",
+      "imageUrl": null
+    },
+    {
+      "id": "sardina",
+      "name": "Sardina",
+      "category": "FISH",
+      "imageUrl": null
+    },
+    {
+      "id": "suavizante",
+      "name": "Suavizante",
+      "category": "CLEANING",
+      "imageUrl": null
+    },
+    {
+      "id": "te",
+      "name": "Té",
+      "category": "DRINKS",
+      "imageUrl": null
+    },
+    {
+      "id": "ternera",
+      "name": "Ternera",
+      "category": "MEAT",
+      "imageUrl": null
+    },
+    {
+      "id": "tomate",
+      "name": "Tomate",
+      "category": "VEGETABLES",
+      "imageUrl": null
+    },
+    {
+      "id": "torta",
+      "name": "Torta",
+      "category": "BAKERY",
+      "imageUrl": null
+    },
+    {
+      "id": "uva",
+      "name": "Uva",
+      "category": "FRUITS",
+      "imageUrl": null
+    },
+    {
+      "id": "vino_blanco",
+      "name": "Vino blanco",
+      "category": "DRINKS",
+      "imageUrl": null
+    },
+    {
+      "id": "vino_tinto",
+      "name": "Vino tinto",
+      "category": "DRINKS",
+      "imageUrl": null
+    },
+    {
+      "id": "yogur",
+      "name": "Yogur",
+      "category": "DAIRY",
+      "imageUrl": null
+    },
+    {
+      "id": "zanahoria",
+      "name": "Zanahoria",
+      "category": "VEGETABLES",
+      "imageUrl": null
+    },
+    {
+      "id": "zumo",
+      "name": "Zumo",
+      "category": "DRINKS",
+      "imageUrl": null
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Tortilla de Patata",
+      "imageUrl": null,
+      "productIds": [
+        "patata",
+        "huevo",
+        "cebolla",
+        "aceite"
+      ],
+      "instructions": "1. Pela y corta las patatas en láminas finas.\n2. Fríe las patatas con la cebolla hasta que estén tiernas.\n3. Bate los huevos y mézclalos con las patatas escurridas.\n4. Cuaja la mezcla en una sartén por ambos lados."
+    },
+    {
+      "id": 2,
+      "title": "Ensalada Mixta",
+      "imageUrl": null,
+      "productIds": [
+        "lechuga",
+        "tomate",
+        "cebolla",
+        "aceitunas"
+      ],
+      "instructions": "1. Lava y corta todos los ingredientes.\n2. Mézclalos en un bol amplio.\n3. Aliña con aceite, vinagre y sal al gusto."
+    },
+    {
+      "id": 3,
+      "title": "Pasta al Pesto",
+      "imageUrl": null,
+      "productIds": [
+        "pasta",
+        "pesto",
+        "queso"
+      ],
+      "instructions": "1. Cuece la pasta hasta que esté al dente.\n2. Mezcla la pasta caliente con el pesto.\n3. Añade queso rallado por encima antes de servir."
+    },
+    {
+      "id": 4,
+      "title": "Bizcocho Casero",
+      "imageUrl": null,
+      "productIds": [
+        "harina",
+        "huevo",
+        "azucar",
+        "leche"
+      ],
+      "instructions": "1. Mezcla todos los ingredientes en un bol.\n2. Vierte la mezcla en un molde engrasado.\n3. Hornea a 180ºC durante 35-40 minutos."
+    },
+    {
+      "id": 5,
+      "title": "Smoothie de Plátano y Mango",
+      "imageUrl": null,
+      "productIds": [
+        "platano",
+        "mango",
+        "yogur"
+      ],
+      "instructions": "1. Pela el plátano y el mango.\n2. Mézclalos con el yogur en una batidora.\n3. Bate hasta obtener una textura homogénea."
+    }
+  ]
+}
