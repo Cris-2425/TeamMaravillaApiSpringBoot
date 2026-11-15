@@ -45,14 +45,12 @@ Requisitos
 Variables de entorno
 La aplicación obtiene su configuración de variables de entorno. No deben añadirse contraseñas ni claves JWT al repositorio.
 Variable	Descripción
-DB_URL	URL JDBC de MySQL, por ejemplo jdbc:mysql://localhost:3306/teammaravilla
+DB_URL	URL JDBC de MySQL
 DB_USERNAME	Usuario de MySQL
 DB_PASSWORD	Contraseña de MySQL
 JWT_SECRET	Clave aleatoria de 32 bytes, codificada en Base64
-JWT_EXPIRATION	Duración ISO-8601 del JWT, por ejemplo PT15M
+JWT_EXPIRATION	Duración ISO-8601 del JWT
 
-
-Ejemplo de configuración para una terminal PowerShell (reemplazar todos los valores de ejemplo):
 $env:DB_URL = "jdbc:mysql://localhost:3306/teammaravilla"
 $env:DB_USERNAME = "USUARIO_LOCAL"
 $env:DB_PASSWORD = "CONTRASENA_LOCAL"
